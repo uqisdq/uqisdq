@@ -11,5 +11,5 @@
 <p>&nbsp;</p>
 <p>Ciao!</p>
 <p>&nbsp;</p>
-<p><iframe title="YouTube video player" src="//www.youtube.com/embed/RnFwo2wfnAI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><video src='https://www.youtube.com/watch?v=RnFwo2wfnAI&t=25s' width=180/></p>
 <p><strong>&nbsp;</strong></p>
