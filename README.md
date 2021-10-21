@@ -8,8 +8,8 @@
 <p><a title="Main Bersama App API Development" href="https://github.com/uqisdq/tugas_akhir_jabar_coding_camp" target="_blank">Main_Bersama_App_API_Development_Using_AdonisJS</a></p>
 <p>&nbsp;</p>
 <p>And while browsing, feel free to listen to my cover of Merry Go Round of Life <img src="https://html-online.com/editor/tiny4_9_11/plugins/emoticons/img/smiley-cool.gif" alt="cool" />.</p>
-<p>&nbsp;</p>
+<p><a title="Da  Music" href="https://www.youtube.com/watch?v=ZYdopyOmrlA"><img src="https://i9.ytimg.com/vi/ZYdopyOmrlA/mq1.jpg?sqp=CNCyxIsG&amp;rs=AOn4CLD_yiALOIWAxJjCHoISzqcXFZ2gDw" alt="" /></a></p>
 <p>Ciao!</p>
 <p>&nbsp;</p>
-[![Everything Is AWESOME](https://i9.ytimg.com/vi/ZYdopyOmrlA/mq1.jpg?sqp=CKSwxIsG&rs=AOn4CLAyDRBwTdP0aKX3GdqDsA-i_aZs8A)](https://www.youtube.com/watch?v=ZYdopyOmrlA "Everything Is AWESOME")
+<p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
