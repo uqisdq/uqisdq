@@ -9,8 +9,6 @@
 <p><a href="https://github.com/uqisdq/Dashboard-Balita-Stunting-Jawa-Barat">West_Java_Stunting_Toddler_Dashboard_Visualization_(BI)</a></p>
 
 <p>&nbsp;</p>
-<p>And while browsing, feel free to listen to my cover of Merry Go Round of Life <img src="https://html-online.com/editor/tiny4_9_11/plugins/emoticons/img/smiley-cool.gif" alt="cool" />.</p>
-<p><a title="Da  Music" href="https://www.youtube.com/watch?v=ZYdopyOmrlA"><img src="https://i9.ytimg.com/vi/ZYdopyOmrlA/mq1.jpg?sqp=CNCyxIsG&amp;rs=AOn4CLD_yiALOIWAxJjCHoISzqcXFZ2gDw" alt="" /></a></p>
 <p>Ciao!</p>
 <p>&nbsp;</p>
 <p><em><strong>Languages :</strong></em></p>
