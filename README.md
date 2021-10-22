@@ -7,6 +7,7 @@
 <p><a title="Movement Prediction Based on Relative Movement Toward Specific Baseline (DS, DA)" href="https://github.com/uqisdq/Predicting_West_Java_Civilian_Movement_during_Covid19" target="_blank">West_Java_Indonesia_Civilian_Movement_Prediction_During_Covid19_And-NewYearEve_(DS,DA)</a></p>
 <p><a title="Main Bersama App API Development (BackEnd)" href="https://github.com/uqisdq/tugas_akhir_jabar_coding_camp" target="_blank">Main_Bersama_App_API_Development_Using_AdonisJS_(BackEnd)</a></p>
 <p><a href="https://github.com/uqisdq/Dashboard-Balita-Stunting-Jawa-Barat">West_Java_Stunting_Toddler_Dashboard_Visualization_(BI)</a></p>
+<p><a href="https://uqisdq.github.io/coba_webgis/">Simple_WebGIS_Attempt_(SA)</a></p>
 
 <p>&nbsp;</p>
 <p>Ciao!</p>
