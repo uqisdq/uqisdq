@@ -13,6 +13,6 @@
 <p>Ciao!</p>
 <p>&nbsp;</p>
 <p><em><strong>Languages :</strong></em></p>
-<p><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="" width="192" height="65" /><img src="https://itlearningcenter.id/wp-content/uploads/2020/03/SQL-LOGO.png" alt="" width="112" height="58" /><img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Javascript.png" alt="" width="123" height="69" /></p>
+<p><img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="" width="192" height="65" /><img src="https://itlearningcenter.id/wp-content/uploads/2020/03/SQL-LOGO.png" alt="" width="112" height="58" /><img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Javascript.png" alt="" width="123" height="69" /></p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
