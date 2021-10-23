@@ -13,6 +13,8 @@
 <p>Ciao!</p>
 <p>&nbsp;</p>
 <p><em><strong>Languages :</strong></em></p>
-<p><img src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" alt="" width="192" height="65" /><img src="https://itlearningcenter.id/wp-content/uploads/2020/03/SQL-LOGO.png" alt="" width="112" height="58" /><img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Javascript.png" alt="" width="123" height="69" /></p>
+<p><img src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" alt="Pin on Medium" width="74" height="74" /><img src="https://itlearningcenter.id/wp-content/uploads/2020/03/SQL-LOGO.png" alt="" width="112" height="58" /><img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Javascript.png" alt="" width="123" height="69" /></p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
+
+
